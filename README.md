@@ -9,7 +9,8 @@ The project is organized as follow:
 - **roundabout.h**: declaration of classes and methods usefull for the simulation of a roundabout;
 - **roundabout.cpp**: implementation of roundabout.h;
 - **trafficlights.h**: declarations of classes and methods usefull for the simulation of a crossroad with traffic-lights;
-- **trafficlights.cpp**: implementation of trafficlights.h.
+- **trafficlights.cpp**: implementation of trafficlights.h;
+- **main.cpp**: executes the simulation for traffic lights and roundabouts with defined parameters and outputs the results.
 
 ### Main Classes and Functionality
 
